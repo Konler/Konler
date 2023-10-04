@@ -1,4 +1,4 @@
-#  Hey, Welcome to my profile!
+#  Hey, welcome to my profile!
 
 I'm Java Developer from Moscow, Russia.
 
