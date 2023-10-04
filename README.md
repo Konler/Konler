@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Yuliya 
+#  Hey, Welcome to my profile!
 
-I am interested in natural sciences. I want to expand my capabilities through programming, which will allow me to create models and simulations of various processes, visualize and analyze large amounts of data.
+I'm Java Developer from Moscow, Russia.
 
 ### Work with
  
