@@ -1,6 +1,6 @@
 #  Hey, welcome to my profile!
 
-I'm Java Developer from Russia.
+I'm Java developer from Russia.
 
 ### Work with
  
