@@ -16,7 +16,7 @@ I'm Java developer from Russia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://logodix.com/logo/1593293.png" title="JSON" alt="JSON" width="40" height="40"/>&nbsp;
  <img src="https://www.ayrshare.com/wp-content/uploads/postman-logo-orange-stacked.png" title="Postman" alt="Postman" width="42" height="40"/>&nbsp;
- <img src="https://www.leixue.com/uploads/2019/07/RabbitMQ.png" title="RabbitMQ" alt="RabbitMQ" width="42" height="40"/>&nbsp;
+ <img src="https://www.leixue.com/uploads/2019/07/RabbitMQ.png" title="RabbitMQ" alt="RabbitMQ" width="52" height="42"/>&nbsp;
  <img src="https://stackjava.com/wp-content/uploads/2018/05/swagger-icon.png" title="Swagger" alt="Swagger" width="45" height="45"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="45" height="45"/>&nbsp;
